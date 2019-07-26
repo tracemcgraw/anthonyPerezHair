@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(37, 35, 35) !important;
+    color: white !important;
+}
+#content1{
+    background-image: url(../images/upView.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    background-attachment: fixed;
+    border-radius: 0%;
+}
+
+/* Content 2 Pictures */
+#content2{
+    background-image: url(../images/pic13.JPG);
+    background-size: cover;
+    height: 550px;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    border-radius: 0%;
+}
+#content2-pics{
+    text-align: center;
+}
+#content2-pics img{
+    height: 300px;
+    width: auto;
+}
+#content2_2-pics{
+    text-align: center;
+}
+#content2_2-pics img{
+    height: 300px;
+    width: auto;
+}
+
+/* About Me Section */
+#content3{
+    background-image: url(../images/scissors.jpg);
+    background-size: cover; 
+    height: 500px;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    border-radius: 0%;
+}
+#profilePic{
+    border-radius: 20px;
+    height: 55%;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  /* width: 50%; */
+}
+#contenet3-container{
+    color: white;
+    height: 600px;
+}
+
+
+/* Footer Content */
+#footer-content{
+    margin-bottom: 0%;
+    padding: 0%;
+    z-index: 0;
+    border-radius: 0%;
+    height: 500px;
+    width: 100% !important;
+    background-image: url(../images/cityLights3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
